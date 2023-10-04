@@ -35,6 +35,7 @@
 
 ###  6. บันทึกผลการทดลอง ทั้งที่หน้าจอ monitor ของ ESP32 และหน้า Web browser
 
+![ภาพ](https://github.com/kammam19/ESP32-Web-Server/assets/112167732/2a6c9a14-38ac-40e5-b05d-3c2c64ecbb9b)
 
 ![ภาพ](https://github.com/kammam19/ESP32-Web-Server/assets/112167732/f4e59a87-9271-4555-aed7-2231d36c7b52)
 
