@@ -35,8 +35,10 @@
 
 ###  6. บันทึกผลการทดลอง ทั้งที่หน้าจอ monitor ของ ESP32 และหน้า Web browser
 
+![image](https://github.com/Nanapon2002/ESP32-Web-Server/assets/115066356/7497c69a-0828-419f-a72b-a459dbb55385)
+![image](https://github.com/Nanapon2002/ESP32-Web-Server/assets/115066356/3230cb48-55ee-4e46-ab42-05141c4ff25c)
 
 ###  7. ส่งงาน
 pull request พร้อมแนบ link ไปยัง repository ของโปรเจคด้วยนะ
 
-
+https://github.com/Nanapon2002/ESP32-Web-Server
