@@ -35,6 +35,9 @@
 
 ###  6. บันทึกผลการทดลอง ทั้งที่หน้าจอ monitor ของ ESP32 และหน้า Web browser
 
+![image](https://github.com/CHAIYAPRUK/ESP32-Web-Server/assets/115066395/f518569b-5d61-44b4-b2e3-ed7ab86f1453)
+
+![image](https://github.com/CHAIYAPRUK/ESP32-Web-Server/assets/115066395/c66b6b3e-f697-4457-9dfa-b35f84e30c3e)
 
 ###  7. ส่งงาน
 pull request พร้อมแนบ link ไปยัง repository ของโปรเจคด้วยนะ
