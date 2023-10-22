@@ -34,9 +34,16 @@
 
 
 ###  6. บันทึกผลการทดลอง ทั้งที่หน้าจอ monitor ของ ESP32 และหน้า Web browser
-
+![image](https://github.com/Fixckpx/ESP32-Web-Server/assets/115066186/4cf8ca88-31f7-4bd5-bad3-588a629a6048)
+![Screenshot 2023-10-22 154410](https://github.com/Fixckpx/ESP32-Web-Server/assets/115066186/efbe893c-565c-42be-af0c-66c89bd397f8)
+![Screenshot 2023-10-22 154405](https://github.com/Fixckpx/ESP32-Web-Server/assets/115066186/2d97c02a-412e-4435-b31a-43d8b2abf81d)
+![Screenshot 2023-10-22 154357](https://github.com/Fixckpx/ESP32-Web-Server/assets/115066186/01a772e4-f49e-4860-8e9a-f6d94c13b23c)
+![Screenshot 2023-10-22 154345](https://github.com/Fixckpx/ESP32-Web-Server/assets/115066186/fcec3775-9a47-4bad-b8a8-cd161efcfda3)
+![Screenshot 2023-10-22 154336](https://github.com/Fixckpx/ESP32-Web-Server/assets/115066186/41cee831-032e-4a8d-bbc4-7842714d8ef0)
+![Screenshot 2023-10-22 154326](https://github.com/Fixckpx/ESP32-Web-Server/assets/115066186/84ecde8a-e7b1-436b-9261-bd5a69abc2c7)
+![Screenshot 2023-10-22 154314](https://github.com/Fixckpx/ESP32-Web-Server/assets/115066186/f8eaaabf-b29f-4406-8dcd-7d6ac0af5657)
 
 ###  7. ส่งงาน
 pull request พร้อมแนบ link ไปยัง repository ของโปรเจคด้วยนะ
 
-
+https://github.com/Fixckpx/ESP32-Web-Server
