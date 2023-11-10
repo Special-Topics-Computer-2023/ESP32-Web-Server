@@ -34,7 +34,9 @@
 
 
 ###  6. บันทึกผลการทดลอง ทั้งที่หน้าจอ monitor ของ ESP32 และหน้า Web browser
+![image](https://github.com/suwithirunrat/ESP32-Web-Server/assets/116150760/2df16dc7-14c5-443e-bef9-8ac5723271df)
 
+![image](https://github.com/suwithirunrat/ESP32-Web-Server/assets/116150760/feeb754b-3b3b-4612-86de-4c2086920eb4)
 
 ###  7. ส่งงาน
 pull request พร้อมแนบ link ไปยัง repository ของโปรเจคด้วยนะ
