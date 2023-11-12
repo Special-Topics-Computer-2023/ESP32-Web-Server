@@ -1,4 +1,4 @@
-# ESP32-Web-Server
-##   [>> ใบงานการทดลอง >> ](./ESP32-Web-Server-Labsheet.md) 
-##   [>> ตัวอย่างการอ่านค่า analog input แล้วส่งขึ้น web page >> ](./analog_input_example.md) 
-
+# ผลลัพธ์
+![Screenshot 2023-11-12 215915](https://github.com/DanupatSangseekaew/ESP32-Web-Server/assets/100436724/55403b61-7320-4016-927d-d78e5d322e5e)
+# repo
+https://github.com/DanupatSangseekaew/WEB_059.git
